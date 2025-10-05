@@ -23,6 +23,10 @@ export default function SkillsTabs() {
           logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
         },
         {
+          name: "C#",
+          logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+        },
+        {
           name: "Java",
           logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
         },

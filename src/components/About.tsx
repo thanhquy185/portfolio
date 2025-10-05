@@ -42,7 +42,7 @@ export default function About() {
           className="flex justify-center"
         >
           <motion.img
-            src="/src/images/others/about-image.png"
+            src="/images/others/about-image.png"
             alt="About me"
             className="w-80 h-80 rounded-2xl object-cover"
             animate={{ y: [0, -15, 0] }}
