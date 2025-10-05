@@ -16,7 +16,7 @@ export default function Hero() {
           className="flex-shrink-0"
         >
           <img
-            src="/src/images/others/avatar.jpg" // đổi thành ảnh của bạn
+            src="/images/others/avatar.jpg" // đổi thành ảnh của bạn
             alt="avatar"
             className="w-60 h-60 md:w-76 md:h-76 rounded-full border-4 border-purple-500 shadow-lg object-cover"
           />
